@@ -1,0 +1,234 @@
+# depslib dependency file v1.0
+1442290610 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\animations.cpp
+	"SGSDK.h"
+	"Animations.h"
+	"Types.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\sgsdk.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\types.h
+	<stdint.h>
+	<stdbool.h>
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\animations.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1442290610 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\audio.cpp
+	"SGSDK.h"
+	"Audio.h"
+	"Types.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\audio.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1442290610 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\camera.cpp
+	"SGSDK.h"
+	"Camera.h"
+	"Types.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\camera.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1442290610 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\characters.cpp
+	"SGSDK.h"
+	"Characters.h"
+	"Types.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\characters.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1426038320 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\colors.cpp
+	"Colors.h"
+	"Graphics.h"
+
+1437971506 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\colors.h
+	"Types.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\graphics.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1442290610 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\geometry.cpp
+	"SGSDK.h"
+	"Geometry.h"
+	"Types.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\geometry.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1442290610 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\graphics.cpp
+	"SGSDK.h"
+	"Graphics.h"
+	"Types.h"
+
+1442290610 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\images.cpp
+	"SGSDK.h"
+	"Images.h"
+	"Types.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\images.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1442290610 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\input.cpp
+	"SGSDK.h"
+	"Input.h"
+	"Types.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\input.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1442290610 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\networking.cpp
+	"SGSDK.h"
+	"Networking.h"
+	"Types.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\networking.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1442290610 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\physics.cpp
+	"SGSDK.h"
+	"Physics.h"
+	"Types.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\physics.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1442290610 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\resources.cpp
+	"SGSDK.h"
+	"Resources.h"
+	"Types.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\resources.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1442290610 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\sgsdk.cpp
+	"SGSDK.h"
+	"SGSDK.h"
+	"Timers.h"
+	"Physics.h"
+	"Characters.h"
+	"Audio.h"
+	"Images.h"
+	"Animations.h"
+	"Sprites.h"
+	"Utils.h"
+	"Input.h"
+	"Types.h"
+	"Graphics.h"
+	"Geometry.h"
+	"Text.h"
+	"UserInterface.h"
+	"Resources.h"
+	"Camera.h"
+	"Networking.h"
+	"Arduino.h"
+	<Windows.h>
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\timers.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\sprites.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\utils.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\text.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\userinterface.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\arduino.h
+	<stdint.h>
+	<stdbool.h>
+	"Types.h"
+
+1442290610 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\sprites.cpp
+	"SGSDK.h"
+	"Sprites.h"
+	"Types.h"
+
+1442290610 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\text.cpp
+	"SGSDK.h"
+	"Text.h"
+	"Types.h"
+
+1442290610 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\timers.cpp
+	"SGSDK.h"
+	"Timers.h"
+	"Types.h"
+
+1442290610 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\userinterface.cpp
+	"SGSDK.h"
+	"UserInterface.h"
+	"Types.h"
+
+1442290610 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\utils.cpp
+	"SGSDK.h"
+	"Utils.h"
+	"Types.h"
+
+1497956115 source:c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\src\main.cpp
+	<stdio.h>
+	<iostream>
+	<math.h>
+	<string>
+	"SwinGame.h"
+
+1442290610 c:\users\deniz\desktop\progs\sg_cpp_codeblocks_3_6\projecttemplate\lib\swingame.h
+	"Animations.h"
+	"Arduino.h"
+	"Audio.h"
+	"Camera.h"
+	"Characters.h"
+	"Geometry.h"
+	"Graphics.h"
+	"Images.h"
+	"Input.h"
+	"Networking.h"
+	"Physics.h"
+	"Resources.h"
+	"Sprites.h"
+	"SwinGame.h"
+	"Text.h"
+	"Timers.h"
+	"Types.h"
+	"UserInterface.h"
+	"Utils.h"
+	"Colors.h"
+
